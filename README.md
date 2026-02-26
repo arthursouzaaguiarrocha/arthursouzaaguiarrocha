@@ -1,6 +1,6 @@
 # Oi!! 👋, Eu sou Arthur Souza
 
-🚀 **Estudante de Front-end, Back-end, Python e Java**  
+🚀 **Estudante de Front-end, Back-end, Python, MySQL**  
 🇧🇷 Brasil
 
 **Estudando para ser um programador FullStack.**
