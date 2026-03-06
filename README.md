@@ -45,7 +45,7 @@ Meu objetivo é me tornar um **desenvolvedor Full Stack**, criando aplicações 
 
 ## 📊 Estatísticas GitHub
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthursouzaaguiarrocha&show_icons=true&theme=tokyonight)
 
 ---
 
