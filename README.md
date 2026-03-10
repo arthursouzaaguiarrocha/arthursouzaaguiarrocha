@@ -42,14 +42,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthursouzaaguiarrocha\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursouzaaguiarrocha\&layout=compact)
-
----
-
 ## 🌐 Meu GitHub
 
 🔗 https://github.com/arthursouzaaguiarrocha
