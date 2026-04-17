@@ -40,6 +40,9 @@
 
 ## 🌐 Meu GitHub
 
+[![Top Languages](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+
 🔗 https://github.com/arthursouzaaguiarrocha
 
 ---
