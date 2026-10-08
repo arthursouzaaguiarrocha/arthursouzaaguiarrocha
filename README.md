@@ -1,7 +1,6 @@
 # Olá! Eu sou o Arthur Souza Aguiar Rocha
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend;PHP+%7C+Laravel+%7C+CodeIgniter;Sempre+aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 
 <br>
